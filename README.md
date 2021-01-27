@@ -8,3 +8,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ukaea&repo=paramak)](https://github.com/ukaea/paramak)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ukaea&repo=openmc_workshop)](https://github.com/ukaea/openmc_workshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ukaea&repo=neutronics_material_maker)](https://github.com/ukaea/neutronics_material_maker)
