@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m researching fusion energy research
+- 🔭 I’m researching fusion energy
 - 👯 I’m looking to collaborate on automated design optimisation
 - 💬 Ask me about neutronics
 
