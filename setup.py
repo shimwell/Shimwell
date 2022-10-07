@@ -30,7 +30,7 @@ kwargs = {
     # Data files and libraries
     'package_data': {
         'openmc.lib': ['libopenmc.{}'.format(suffix)],
-        'openmc.data': ['*.pyx', '*.c', 'mass16.txt', 'BREMX.DAT', 'half_life.json', '*.h5'],
+        'openmc.data': ['mass16.txt', 'BREMX.DAT', 'half_life.json', '*.h5'],
         'openmc.data.effective_dose': ['*.txt']
     },
     'python_requires': '>=3.7',
@@ -39,7 +39,7 @@ kwargs = {
         'numpy>=1.9', 'h5py', 'scipy', 'ipython', 'matplotlib',
         'pandas', 'lxml', 'uncertainties', 'cython'
     ],
-    'ext_modules': cythonize('openmc/data/*.pyx', compiler_directives={'language_level' : "3"}),
+    'ext_modules': cythonize('openmc/data/*.pyx'),
     'include_dirs': [np.get_include()]
 }
 
