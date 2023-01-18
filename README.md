@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on automated design optimisation
 - 💬 Ask me about neutronics
 
-👉 check out my webapps for neutron corss section plotting and parametric CAD based neutronics on demand [- xsplot.com](https://www.xsplot.com/)
+👉 check out my webapps for neutron cross section plotting and parametric CAD based neutronics on demand [- xsplot.com](https://www.xsplot.com/)
 
 <!-- add this stats once orgs are available as most work is on orgs now, -->
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shimwell&count_private=true&orgs=fusion-energy&theme=tokyonight&showicons=true)]() -->
